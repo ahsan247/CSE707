@@ -7,7 +7,6 @@ https://youtu.be/QMzVMVWZXtc
 Conference submitted paper / paper submission / login Link:
 N/A
 
-
 Project title:
 Query Optimization on Relational Database System in Cloud Environment
 
