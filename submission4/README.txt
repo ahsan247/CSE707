@@ -12,7 +12,7 @@ Project title:
 Query Optimization on Relational Database System in Cloud Environment
 
 Paper presentation:
-
+https://github.com/ahsan247/CSE707/blob/main/submission4/Paper.pdf
 
 Group Number:
 07
