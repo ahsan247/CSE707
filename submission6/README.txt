@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtu.be/Ve0wJVBHbcI
 
 Conference submitted paper / paper submission / login Link:
-N/A
+https://easychair.org/
 
 Project title:
 Query Optimization on Relational Database System in Cloud Environment
