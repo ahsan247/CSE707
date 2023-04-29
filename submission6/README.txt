@@ -17,16 +17,16 @@ Group Number:
 07
 
 Paper submission date (to workshop/conference):
-N/A
+30/04/2023
 
 Paper submission ID: (received) from conference/workshop
-N/A
+93
 
 Conference Name:
-N/A
+ICMSSMT 2023: 2023 2nd International Conference on Materials Science and Sustainable Manufacturing Technology
 
 Conference URL:
-N/A
+http://icmssmt.com/
 
 Group Members:
 22266027  Md Shifatul Ahsan Apurba 
