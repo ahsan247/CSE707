@@ -12,7 +12,7 @@ Understanding Cancer Inspection: A LIME-based Analysis of Breast Cancer Predicti
 
 
 Paper presentation:
-
+https://github.com/ahsan247/CSE707/blob/main/submission8/Spring23_CSE707_Understanding_Cancer_Inspection__A_LIME_based_Analysis_of_Breast_Cancer_Prediction.pdf
 
 Group Number:
 07
