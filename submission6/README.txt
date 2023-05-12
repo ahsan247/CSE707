@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtu.be/Ve0wJVBHbcI
 
 Conference submitted paper / paper submission / login Link:
-https://easychair.org/
+https://edas.info/
 
 Project title:
 Query Optimization on Relational Database System in Cloud Environment
@@ -20,13 +20,13 @@ Paper submission date (to workshop/conference):
 30/04/2023
 
 Paper submission ID: (received) from conference/workshop
-93
+1570913184
 
 Conference Name:
-ICMSSMT 2023: 2023 2nd International Conference on Materials Science and Sustainable Manufacturing Technology
+2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
 
 Conference URL:
-http://icmssmt.com/
+https://r10htc2023.org/
 
 Group Members:
 22266027  Md Shifatul Ahsan Apurba 
